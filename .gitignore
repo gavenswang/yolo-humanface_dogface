@@ -2,6 +2,12 @@
 *.dSYM
 *.csv
 *.out
+<<<<<<< HEAD
+=======
+*.png
+*.jpg
+*.pyc
+>>>>>>> c7252703420159a9f3a1ec416b1b4326c4c95402
 old/
 mnist/
 
