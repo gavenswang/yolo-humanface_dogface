@@ -18,7 +18,7 @@ opencv/
 convnet/
 decaf/
 submission/
-
+backup*
 
 .fuse*
 
