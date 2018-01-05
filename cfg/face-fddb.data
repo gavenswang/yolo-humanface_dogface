@@ -1,8 +1,8 @@
 classes= 2
-train  = /home/research/disk1/wangshun/dataset/data/fddb/filelist/dog_humanface_train.txt
+train  = /home/research/disk1/wangshun/dataset/data/fddb/filelist/dog_human_face_train.txt
 #valid  = coco_testdev
 valid = /home/research/disk1/compress_yolo/COCO/test-dev.txt
 names = data/dog_human.names
-backup = backup_dog_huamanface/
+backup = backup_dog_huaman_face/
 #eval=coco
 
